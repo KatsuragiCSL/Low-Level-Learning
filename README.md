@@ -10,3 +10,5 @@ This is a place to share my learning on (practical aspects of) low level stuffs,
 | [pwn college](https://pwn.college/)      | Shellcoding, Reverse engineering, sandboxing, stack exploits, heap exploits, kernel exploits      | In progress   |
 | [A Review of Modern Code Deobfuscation Techniques](https://github.com/arnaugamez/talks/tree/main/2020/02_hackinthebox-sin), [Video](https://www.youtube.com/watch?v=tYqXStZv1W4)      | (de)obfuscation      | Not started   |
 | [Hands-on Binary Deobfuscation - From Symbolic Execution to Program Synthesis](https://github.com/arnaugamez/talks/tree/main/2022/01_r0-workshop), [Video](https://vimeo.com/723157684)      | (de)obfuscation      | Not started   |
+| [RPISEC Malware Analysis](https://github.com/RPISEC/Malware)      | Malware Analysis      | Not started   |
+| [RPISEC Hardware Reverse Engineering](http://web.archive.org/web/20160304031045/http://security.cs.rpi.edu/courses/hwre-spring2014/)      | Hardware Reverse Engineering      | Not started   |
