@@ -12,7 +12,6 @@ This is a place to share my learning on (practical aspects of) low level stuffs,
 | [Windows Kernel Programming](https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich/dp/B0BW2X91L2)      | Windows Kernel      | Not started   |
 | [Android Internals::A Confectioner's Cookbook](http://newandroidbook.com/)      | Android      | Not started   |
 | [\*OS Internals](http://newosxbook.com/home.html)      | OSX and iOS      | Not started   |
-| [iOS App Reverse Engineering](https://github.com/KatsuragiCSL/iOSAppReverseEngineering)      | iOS RE, jailbreaks      | Not started   |
 | | |
 | [Writing a Simple Garbage Collector in C](https://maplant.com/gc.html)	| C, memory management	| Not started	|
 | [Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)	| C, debugging	| Not started	|
