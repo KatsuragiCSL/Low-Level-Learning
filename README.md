@@ -2,8 +2,8 @@
 This is a place to share my learning on (practical aspects of) low level stuffs, like (linux) kernels, firmwares, hardwares, or anything with kernels/ assembly playing an important roles in it. This is aimed to record my learning path.
 
 **Course list**
-| Course      | Learning point | Status     |
-| :---        | :----          | :---       |
+| Course      | Learning point | Status     | Works	|
+| :---        | :----          | :---       | :--- 	|
 | [Eudyptula Challenge](https://github.com/KatsuragiCSL/eudyptula)      | Linux OS development      | Not started   |
 | [KernelNewbies: FirstKernelPatch](https://kernelnewbies.org/FirstKernelPatch)		|	tutorials for submitting linux kernel patch	|	Not started	|
 | [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)	| Linux Kernel      | Not started   |
