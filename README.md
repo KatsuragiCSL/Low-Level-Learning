@@ -7,6 +7,7 @@ This is a place to share my learning on (practical aspects of) low level stuffs,
 | [Eudyptula Challenge](https://github.com/KatsuragiCSL/eudyptula)      | Linux OS development      | Not started   |
 | [KernelNewbies: FirstKernelPatch](https://kernelnewbies.org/FirstKernelPatch)		|	tutorials for submitting linux kernel patch	|	Not started	|
 | [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)	| Linux Kernel      | Not started   |
+| [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)	|	linux kernel	|	Not started	|
 | [Linux Kernel Development](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)	| Linux Kernel      | Not started   |
 | [Linux debugging, profiling, tracing and performance analysis training](https://bootlin.com/training/debugging/)	|	ANalyze and debug linux	|	Not started	|
 | [Embedded Linux training](https://bootlin.com/training/embedded-linux/)	|	embedded linux development	|	Not started	|
@@ -28,6 +29,7 @@ This is a place to share my learning on (practical aspects of) low level stuffs,
 | [Writing a Simple Garbage Collector in C](https://maplant.com/gc.html)	| C, memory management	| Not started	|
 | [Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)	| C, debugging	| Not started	|
 | | |
+| [Embedded Security](https://www.youtube.com/watch?v=7YV1mEm6MLo)	|	embedded system	|	Not started	|
 | [USB Reverse Engineering: Down the rabbit hole](https://hackernoon.com/usb-reverse-engineering-down-the-rabbit-hole-c4809a5b55c4)	|	USB reverse engineering	|	Not started	|
 | [Are We Really Safe? - Bypassing Access Control Systems](https://www.youtube.com/watch?v=-cZ7eDV2n5Y)	|	access control systems hacking	|	Not started	|
 | [Basics of Hacking Physical Access Control Systems](https://www.youtube.com/watch?v=LS5OQHUJaJE)	|	access control systems hacking  |       Not started     |
