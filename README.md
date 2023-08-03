@@ -4,6 +4,9 @@ This is a place to share my learning on (practical aspects of) low level stuffs,
 **Course list**
 | Course      | Learning point | Status     | Works	|
 | :---        | :----          | :---       | :--- 	|
+| [From Transistors To Tetris Part 1 : Computer Architecture](https://www.youtube.com/watch?v=6caLyckwo7U)      |       Computer architecture   |       Not started     |
+| [NandGame](https://nandgame.com/)     |       Build computer from logic gates |       Not started     |
+| | |
 | [Eudyptula Challenge](https://github.com/KatsuragiCSL/eudyptula)      | Linux OS development      | Not started   |
 | [KernelNewbies: FirstKernelPatch](https://kernelnewbies.org/FirstKernelPatch)		|	tutorials for submitting linux kernel patch	|	Not started	|
 | [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)	| Linux Kernel      | Not started   |
@@ -35,9 +38,9 @@ This is a place to share my learning on (practical aspects of) low level stuffs,
 | [Basics of Hacking Physical Access Control Systems](https://www.youtube.com/watch?v=LS5OQHUJaJE)	|	access control systems hacking  |       Not started     |
 | [HAKC THE POLICE](https://www.youtube.com/watch?v=vQtLms02PFM)	|	hacking speed detection system	|	Not started	|
 | [How CPUs Access Hardware - Another SerenityOS Exploit](https://www.youtube.com/watch?v=1hpqiWKFGQs)	|	OS exploit	|	Not started	|
+| [So You Want to Hack Radios](https://www.youtube.com/watch?v=PVlYmlwvwx8)	|	RF hacking basics	|	Not started	|
 | [RF CTF](https://github.com/rfhs/rfhs-wiki/wiki/RF-CTF-Virtual-HowToGetStarted)	|	RF CTF	|	Not started	|
 | | |
 | [Learning the Linux Kernel with tracing](https://www.youtube.com/watch?v=JRyrhsx-L5Y)	|	place holder	|	Not started	|
 | [Write and Submit your first Linux kernel Patch](https://www.youtube.com/watch?v=LLBrBBImJt4)	|	place holder    |       Not started     |
-| [From Transistors To Tetris Part 1 : Computer Architecture](https://www.youtube.com/watch?v=6caLyckwo7U)      |       Computer architecture   |       Not started     |
 | [Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lessons Learnt](https://www.youtube.com/watch?v=FbDebSinSQo)	|	Unix history	|	Not started	|
