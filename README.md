@@ -6,6 +6,7 @@ This is a place to share my learning on (practical aspects of) low level stuffs,
 | :---        | :----          | :---       | :--- 	|
 | [From Transistors To Tetris Part 1 : Computer Architecture](https://www.youtube.com/watch?v=6caLyckwo7U)      |       Computer architecture   |       Not started     |
 | [NandGame](https://nandgame.com/)     |       Build computer from logic gates |       Not started     |
+| [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)	|	Circuits Design exercises	|	Not started	|
 | | |
 | [Eudyptula Challenge](https://github.com/KatsuragiCSL/eudyptula)      | Linux OS development      | Not started   |
 | [KernelNewbies: FirstKernelPatch](https://kernelnewbies.org/FirstKernelPatch)		|	tutorials for submitting linux kernel patch	|	Not started	|
